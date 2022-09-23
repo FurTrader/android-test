@@ -8,3 +8,6 @@ iOS: https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/49283
 
 android build 2
 https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/39621d1d-73e2-4739-a693-2bab5c4e623b
+
+android build 3:
+https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/cb1d5e97-03b5-40bb-bf36-f006237c3bfc
