@@ -1,4 +1,4 @@
-# These links allow you to load the alpha testing version of Overkill Solar's new bluetooth app
+### These links allow you to load the alpha testing version of Overkill Solar's new bluetooth app
 
 This is intended only for internal testing. The first beta version will be on play store and app store.
 No warranty, etc.   
