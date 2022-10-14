@@ -9,7 +9,7 @@ links to load new app:
 build 1     
 Android: https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/4fbfb8db-acc2-4b5c-9cbc-4d71d84966af
 
-iOS: https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/49283b9e-8482-44e1-b8ad-012c612eb47a
+iOS: (expired) https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/49283b9e-8482-44e1-b8ad-012c612eb47a
 
 
 android build 2:    
@@ -17,3 +17,6 @@ https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/39621d1d-7
 
 android build 3:     
 https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/cb1d5e97-03b5-40bb-bf36-f006237c3bfc
+
+iOS build 2:
+https://expo.dev/accounts/marchingband/projects/overkill-solar/builds/d311f7b0-f8f6-4ba7-ac54-782a9ab8a6af
